@@ -20,11 +20,12 @@
     "express": "^4.16.4",
     "mysql2": "^1.6.5",
     "sequelize": "^4.42.0",
-    "sequelize-cli": "^5.4.0"
-  },
-  "devDependencies": {
+    "sequelize-cli": "^5.4.0",
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.3",
     "@babel/preset-env": "^7.3.1"
+  },
+  "devDependencies": {
+  
   }
 }
